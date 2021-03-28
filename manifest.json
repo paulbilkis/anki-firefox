@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "name": "anki-firefox",
+    "version": "0.1",
+    "description": "Add new cards to your local Anki while reading materials online.",
+    "author": "paulbilkis",
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": ["tabs","menus", "contextMenus", "activeTab", "*://127.0.0.1:8765/", "http://127.0.0.1:8765/","http://localhost:8765/", "webRequest"]
+}

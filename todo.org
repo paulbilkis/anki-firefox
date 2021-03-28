@@ -1,0 +1,8 @@
+* Fetch translations from google/wiktionary
+
+* Custom model creation
+
+* Add settings for
+** Model, deck configuration
+** Translation source
+** Other field source
