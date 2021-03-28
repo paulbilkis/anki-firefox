@@ -1,8 +1,8 @@
-* Fetch translations from google/wiktionary
+* TODO Fetch translations from google/wiktionary
 
-* Custom model creation
+* TODO Custom model creation
 
 * Add settings for
-** Model, deck configuration
-** Translation source
-** Other field source
+** TODO Model, deck configuration
+** TODO Translation source
+** TODO Other field source
